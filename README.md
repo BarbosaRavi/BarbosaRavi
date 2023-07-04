@@ -1,5 +1,4 @@
-###
-Meu nome é Ravi Barbosa, sejam bem-vindos aos meus repositórios! // My name is Ravi Barbosa, welcome to my repositories!
+### Meu nome é Ravi Barbosa, sejam bem-vindos aos meus repositórios! // My name is Ravi Barbosa, welcome to my repositories!
 ##
 <div>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BarbosaRavi&show_icons=true&theme=radical">
