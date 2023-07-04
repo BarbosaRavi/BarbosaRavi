@@ -1,6 +1,6 @@
 # Bem-vindos ao meu repositório no GitHub
 
-Meu nome é Ravi Barbosa, sejam bem-vindos aos meus repositórios!
+Meu nome é Ravi Barbosa, sejam bem-vindos aos meus repositórios! \n
 My name is Ravi Barbosa, welcome to my repositories!
 
 <div>
