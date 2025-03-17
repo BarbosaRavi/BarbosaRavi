@@ -8,10 +8,7 @@ My name is Ravi Barbosa, welcome to my repositories!
 
 </div>
 
-### Redes Sociais // Social Networks
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravib.barbosa?igshid=MzNINGNkZWQ4MG==)
-##
 ### Email
-ravibarbosaoficial@gmail.com
+ravibittencourt15@gmail.com
 ##
 Obrigado por visitar meu repositório! 
