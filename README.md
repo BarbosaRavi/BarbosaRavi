@@ -12,7 +12,3 @@ My name is Ravi Barbosa, welcome to my repositories!
 ### Email
 ravibittencourt15@gmail.com
 ##
-
-PROJETO DE REDE SOCIAL: VOU REFAZER APÓS TER ESTUDADO MELHORES FORMAS DE FAZER
-
-PROJETO DE GERENCIAMENTO DE DESPESAS: VOU CONTINUAR
