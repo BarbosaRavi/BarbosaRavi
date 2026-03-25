@@ -5,16 +5,12 @@
   Trabalhando com Delphi e SQL Server
 </p>
 
----
-
 ## Sobre mim
 - Trabalhando com **Delphi / Object Pascal**
 - Estudando **React, Node.js e Express**
 - Interessado em **backend, desktop e integração de APIs**
 
----
-
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Delphi" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" />
@@ -30,34 +26,13 @@
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
----
-
-## 📊 Estatísticas
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbosaRavi&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaRavi&layout=compact&theme=tokyonight&locale=pt-br" />
-</div>
-
----
-
-## 🔥 Sequência de commits
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=BarbosaRavi&theme=tokyonight&locale=pt_BR" />
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarbosaRavi&theme=tokyo-night" />
 </div>
 
----
-
-## 📫 Contato
+## Contato
 
 - Email: **ravibittencourt15@gmail.com**
 - GitHub: **github.com/BarbosaRavi**
