@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou Ravi Barbosa</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas <br>
   Trabalhando com Delphi e SQL Server
 </p>
 
 ## Sobre mim
 
 - Trabalhando com **Delphi / Object Pascal / SVN / SQL Server**
+- Estudando **PHP / Laravel / PostgreSQ**
 - Interessado em **Backend, Desktop e Integração de APIs**
 
 ## Tecnologias
