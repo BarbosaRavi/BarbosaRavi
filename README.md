@@ -1,13 +1,12 @@
-<h1 align="center">Welcome to my GitHub</h1>
+<h1 align="center">Bem vindo ao meu Github</h1>
 
 <p align="center">
-  Working with Delphi | Object Pascal | SVN | SQL Server at the moment
+  Trabalhando com Delphi | Object Pascal | SVN | SQL Server no momento
 </p>
 
-## About me
+## Sobre mim
 
-- Studying **PHP / Laravel / PostgreSQ**
-- Interested in Backend development
+- Estudando **PHP | Laravel**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi" height="40" width="50" />
