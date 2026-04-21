@@ -1,26 +1,23 @@
-<h1 align="center">Olá, eu sou Ravi Barbosa</h1>
+<h1 align="center">Software Developer</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software</strong>
+<img src="https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge" alt="Portuguese" />
+<img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English" />
+<img src="https://img.shields.io/badge/German-Studying-orange?style=for-the-badge" alt="German" />
 </p>
-
-<br>
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi" height="40" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" alt="SVN" height="40" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" /></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/laravel/e74430" alt="Laravel" height="40" /></a>
+  <img src="https://img.shields.io/badge/Delphi-004B8C?style=for-the-badge&logo=delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
-<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BarbosaRavi&theme=tokyonight&locale=pt_BR&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BarbosaRavi&theme=tokyonight&locale=en&hide_border=true" />
 </p>
-
-<br>
 
 <p align="center">
   <a href="mailto:ravibittencourt15@gmail.com">
